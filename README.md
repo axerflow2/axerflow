@@ -8,3 +8,8 @@ Build with
 ```
 pip wheel -w dist .
 ```
+
+
+
+see How to upload pypi from github 
+https://github.com/bast/pypi-howto

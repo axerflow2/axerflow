@@ -11,10 +11,13 @@ setup_requires = pytest_runner
 
 setup(
     name="axerflow",
-    version="1.2.3",
+    version="0.0.1",
     description="a minimal example package (pure python version)",
-    author='The scikit-build team',
+    author='The axerflow team',
+    author_email='jornbowrl@gmail.com',
     license="MIT",
+    url="https://github.com/axerflow/axerflow/",
+    download_url="https://github.com/axerflow/axerflow/archive/0.0.1.zip",
     packages=['hello'],
     tests_require=['pytest'],
     setup_requires=setup_requires
